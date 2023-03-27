@@ -55,7 +55,9 @@ export default function Home() {
           <h2 className={inter.className}>
             Docs <span>-&gt;</span>
           </h2>
-          <p className={inter.className}>Find in-depth information about</p>
+          <p className={inter.className}>
+            Find in-depth informadadadadadaddadaation about
+          </p>
         </a>
 
         <a
