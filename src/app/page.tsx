@@ -56,7 +56,7 @@ export default function Home() {
             Docs <span>-&gt;</span>
           </h2>
           <p className={inter.className}>
-            Find in-depth information abouadast Nexdadasdasdt.js .
+            Find in-depth information abouadast sdt.js .
           </p>
         </a>
 
