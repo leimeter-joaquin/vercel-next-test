@@ -85,7 +85,7 @@ export default function Home() {
           </h2>
           <p className={inter.className}>
             Instantly deploy your Next.js site to a shareable URL with Vercel.
-            feature-4
+            feature-4 lala
           </p>
         </a>
       </div>
