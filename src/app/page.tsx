@@ -79,9 +79,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h2 className={inter.className}>
-            Deploy or not<span>-&gt;</span>
-          </h2>
+          <h2 className={inter.className}></h2>
           <p className={inter.className}>
             Instantly deploy your Next.js site to asdasa shareable URL with
             Vercel. feature-4 lala
