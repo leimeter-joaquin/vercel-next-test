@@ -68,10 +68,9 @@ export default function Home() {
         >
           <h2 className={inter.className}>
             Templates <span>-&gt;</span>
+            Templates <span>-&gt;</span>
           </h2>
-          <p className={inter.className}>
-            Explore the Next.js 13 playground. eaea
-          </p>
+          <p className={inter.className}></p>
         </a>
 
         <a
