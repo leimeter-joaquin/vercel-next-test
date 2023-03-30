@@ -8,6 +8,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div></div>
+      <p>LALALA</p>
       <div className={styles.description}>
         <div>
           <a
