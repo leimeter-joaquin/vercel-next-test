@@ -11,7 +11,6 @@ export default function Home() {
       <p>LALALA</p>
       <p>LALALA</p>
       <p>LALALA</p>
-      <p>LALALA</p>
       <div className={styles.description}>
         <div>
           <a
